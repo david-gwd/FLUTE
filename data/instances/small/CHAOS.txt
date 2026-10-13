@@ -1,0 +1,21 @@
+Section Terminals
+Terminals 7
+T 1
+T 2
+T 3
+T 4
+T 5
+T 6
+T 7
+End
+
+Section Coordinates
+DD 1 0 0 
+DD 2 3 0
+DD 3 2 1
+DD 4 1 2
+DD 5 2 2
+DD 6 0 3
+DD 7 3 3
+
+EOF

@@ -1,0 +1,11 @@
+Section Terminals
+Terminals 2
+T 1
+T 2
+End
+
+Section Coordinates
+DD 1 0 0
+DD 2 1 0
+
+EOF

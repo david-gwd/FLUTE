@@ -1,0 +1,23 @@
+# build output
+/build*/
+/cmake-build-*/
+/out/
+CMakeUserPresets.json
+
+# generated lookup tables (several MB; see README: `flute generate`)
+/flute_lookup*.txt
+/lookup*.txt
+*.lut
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# python
+__pycache__/
+*.pyc
+
+# local results
+/output/
